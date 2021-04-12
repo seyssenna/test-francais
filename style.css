@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.titre{
+    font-size: 1.3rem;
+    font-weight:700;
+}
+
+h1, h2{
+    text-align: center;
+    margin: 3rem;
+}
+
